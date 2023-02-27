@@ -1,0 +1,13 @@
+cocsce-l1d43-29
+brooksjb
+
+1. cat
+2. head, tall 
+3. view 
+4. press i to go into insert mode 
+5. escape
+6. :w
+7. :q
+8. :q!
+9. :/counter 
+10. :wq

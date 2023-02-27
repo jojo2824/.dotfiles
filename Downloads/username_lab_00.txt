@@ -1,0 +1,11 @@
+cocsce-l1d43-29
+brooksjb
+2. Terminal
+3. A path is a variable that instructs the system what directories to search for executables
+4. Directories also known as folder are used to organize files 
+5. In Linux everything is a file, if not it is a process
+6. The root directory 
+7. The pwd command
+8. typically the /home, but in the labs /acct
+9. The cd command 
+10. The ls command 

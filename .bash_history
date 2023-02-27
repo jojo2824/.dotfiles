@@ -647,3 +647,87 @@ touch README.md
 rm README.me
 #1677530860
 vim README.md
+#1677532028
+git config --global username "Joseph Brooks"
+#1677532073
+git config --global user.name "Joseph Brooks"
+#1677532102
+git config --global user.email "jojo_mojo@comcast.net"
+#1677532112
+cd ./ssh
+#1677532115
+cd .ssh
+#1677532120
+vim config
+#1677532135
+cat config
+#1677532158
+cd github
+#1677532204
+ssh-keygen -t ed25519 -a 203 -f ./id_ed25519
+#1677532222
+cat id_ed25519.pub
+#1677532273
+cd /home
+#1677532282
+pwd
+#1677532303
+cd .dotfiles
+#1677532326
+mkdir ~./dotfiles
+#1677532346
+mkdir ~/.dotfiles
+#1677532362
+touch README.md
+#1677532373
+ls -a
+#1677532414
+git init
+#1677532425
+cd
+#1677532428
+git init
+#1677532445
+git add --all
+#1677532496
+git commit -m "INIT commit"
+#1677532527
+branch -M main
+#1677532541
+apt install rheolef
+#1677532549
+yes
+#1677532684
+remote.add orgin git@github.com: jojo2824 /.dotfiles
+#1677532793
+git remote add orgin git@github.com: jojo2824 /.dotfiles
+#1677532831
+git remote add origin git@github.com: jojo2824 /.dotfiles
+#1677532857
+git push -u origin main
+#1677532933
+cd /
+#1677532942
+cd ~/
+#1677532948
+cd /
+#1677532955
+git init
+#1677532960
+cd ~
+#1677532964
+git iniit
+#1677532971
+git init
+#1677532985
+git add --allgit add --all
+#1677532997
+git add --all
+#1677533015
+commit -m "INIT commit"
+#1677533157
+git config --global user.name "Joseph Brooks"
+#1677533212
+git config --global user.email "jojo_mojo@comcast.net"
+#1677533225
+ex

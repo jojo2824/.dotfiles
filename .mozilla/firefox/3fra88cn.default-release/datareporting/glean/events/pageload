@@ -1,7 +1,0 @@
-{"timestamp":209220270,"category":"perf","name":"page_load","extra":{"load_time":"283","load_type":"NORMAL","response_time":"64","http_ver":"1","redirect_time":"38","redirect_count":"1","js_exec_time":"54"}}
-{"timestamp":209221873,"category":"perf","name":"page_load","extra":{"same_origin_nav":"true","fcp_time":"399","redirect_count":"2","load_type":"LINK","js_exec_time":"54","load_time":"588","response_time":"274","redirect_time":"143","http_ver":"1"}}
-{"timestamp":209223855,"category":"perf","name":"page_load","extra":{"response_time":"339","js_exec_time":"25","load_type":"LINK","redirect_count":"1","http_ver":"1","load_time":"438","same_origin_nav":"true","redirect_time":"12"}}
-{"timestamp":209224954,"category":"perf","name":"page_load","extra":{"trr_domain":"mozilla.cloudflare-dns.com","response_time":"289","load_time":"4564","load_type":"STOP","http_ver":"2"}}
-{"timestamp":209227335,"category":"perf","name":"page_load","extra":{"load_time":"300","http_ver":"1","fcp_time":"277","js_exec_time":"40","load_type":"LINK","response_time":"131","same_origin_nav":"true"}}
-{"timestamp":209230401,"category":"perf","name":"page_load","extra":{"same_origin_nav":"true","load_time":"502","response_time":"140","http_ver":"1","fcp_time":"267","load_type":"LINK","js_exec_time":"61"}}
-{"timestamp":209367447,"category":"perf","name":"page_load","extra":{"redirect_time":"1507","fcp_time":"1746","load_type":"LINK","same_origin_nav":"true","load_time":"1766","redirect_count":"1","js_exec_time":"39","response_time":"1621","http_ver":"1"}}

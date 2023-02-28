@@ -731,3 +731,267 @@ git config --global user.name "Joseph Brooks"
 git config --global user.email "jojo_mojo@comcast.net"
 #1677533225
 ex
+#1677533289
+git config --global user.name "Joseph Brooks"
+#1677533318
+git config --global user.email "jojo_mojo@comcast.net"
+#1677533328
+cd /.ssh
+#1677533333
+cd .ssh
+#1677533348
+cd github
+#1677533360
+cd
+#1677533381
+ls -a
+#1677533429
+git init
+#1677533437
+git add --all
+#1677533455
+git commit -m "INIT commit"
+#1677533470
+git branch -M main
+#1677533536
+cd .dotfiles
+#1677533541
+git init
+#1677533547
+git add --all
+#1677533562
+git commit -m "INIT commit"
+#1677533572
+git branch -M main
+#1677533616
+git remote add origin git@github.com: jojo2824 /.dotfiles
+#1677533648
+git remote add origin git@github.com:<jojo2824>/.dotfiles
+#1677533679
+git push -u origin main
+#1677533704
+git push -u .dotfiles main
+#1677533747
+git remote add origin git@github.com:jojo2824/.dotfiles
+#1677533765
+git push -u origin main
+#1677533980
+cd .ssh
+#1677533985
+cd
+#1677533989
+.ssh
+#1677533995
+cd .ssh
+#1677534048
+ssh-keygen -t ed25519 -a 203 -f ./id_ed25519
+#1677534067
+cat id_ed25519.pub
+#1677534199
+cd
+#1677534206
+cd .dotfiles
+#1677534214
+git init
+#1677534220
+git add --all
+#1677534236
+git commit -m "INIT commit"
+#1677534255
+branch -M main
+#1677534328
+ls -a
+#1677534342
+git init
+#1677534359
+git add --all
+#1677534380
+git commit -m "INIT commit"
+#1677534402
+git branch -M main
+#1677534439
+git remote add origin git@githib.com: jojo2824 /.dotfiles
+#1677534474
+git remote add origin git@githib.com: jojo2824/.dotfiles
+#1677534502
+git push -u origin main
+#1677534555
+git remote add origin git@githib.com: jojo2824/.dotfiles
+#1677534561
+--m
+#1677534868
+git remote add origin git@githib.com: jojo2824/.dotfiles
+#1677534874
+git push -u origin main
+#1677535152
+cd
+#1677535167
+vim hw1.txt
+#1677535916
+ex
+#1677536082
+vim hw1.txt
+#1677536334
+ls -a
+#1677536364
+pwd hm1.txt
+#1677543861
+ls -a
+#1677543896
+cat hw1.txt
+#1677543973
+scp -222 brooksjb@L-1D43-34.cse.sc.edu : hw1.txt ~
+#1677544004
+vim hw1.txt
+#1677547467
+ex
+#1677545726
+ls
+#1677545758
+cd Desktop
+#1677545760
+ls
+#1677545762
+ls -a
+#1677545769
+cd
+#1677545771
+ls -a
+#1677545792
+rm .gitconfig
+#1677545812
+rm .git
+#1677545819
+rm - 
+#1677545845
+rmdir .git
+#1677545850
+clear
+#1677545883
+git config --global user.name "Joseph Brooks"
+#1677545911
+git config --global user.email "jojo_mojo@comcast.net
+git config --global user.email "jojo_mojo@comcast.net"
+clear
+#1677545930
+clear
+#1677545934
+git config --global user.name "Joseph Brooks"
+#1677545956
+git config --global user.email "jojo_mojo@comcast.net"
+#1677545962
+git config --global user.name "Joseph Brooks"
+#1677545973
+touch config
+#1677545981
+vim config
+#1677546050
+cd github
+#1677546059
+mkdir github
+#1677546061
+cd github
+#1677546071
+ssh-keygen -t ed25519 -a 203 -f ./id_ed25519
+#1677546088
+ls 
+#1677546162
+cat is_ed25519.pub
+#1677546197
+cat id_ed25519.pub
+#1677546299
+mkdir .dotfiles
+#1677546305
+pwd
+#1677546317
+ls -a
+#1677546326
+vim README.md
+#1677546521
+cat README.md
+#1677546552
+cp .vimrc .dotfiles
+#1677546585
+cp .vimrc ~/.dotfiles
+#1677546589
+cd
+#1677546592
+ls -a
+#1677546601
+cat .vimrc
+#1677546652
+vim .vimrc
+#1677546706
+cat .vimrc'
+vim .vimrc 
+
+#1677546715
+vim .vimrc
+#1677546724
+cat .vimrc
+#1677546751
+cp .vimrc .dotfiles
+#1677546758
+ls -a
+#1677546765
+cd .dotfiles
+#1677546767
+ls -a
+#1677546800
+pwd
+#1677546857
+git init
+#1677546865
+git add --all
+#1677546881
+git commit -m "INIT commit"
+#1677546929
+git remote add origin git@github.com:jojo2824/.dotfiles
+#1677546955
+git push -u origin main
+#1677547099
+cd github
+#1677547122
+git init 
+#1677547129
+git add -all
+#1677547133
+y
+#1677547137
+git add --all
+#1677547152
+git commit -m "INIT commit"
+#1677547165
+git branch -M main
+#1677547173
+git remote add origin git@github.com:jojo2824/.dotfiles
+#1677547191
+git push -u origin main
+#1677547208
+cd github
+#1677547225
+cd
+#1677547228
+cd github
+#1677547236
+cd .dotfiles
+#1677547248
+git init 
+#1677547270
+git add --all
+#1677547282
+commit -m "INIT commit"
+#1677547315
+git branch -M main
+#1677547330
+git remote add origin git@github.com:jojo2824/.dotfiles
+#1677547338
+git push -u origin main
+#1677547348
+cd
+#1677547354
+cd github
+#1677547359
+git init 
+#1677547364
+git add --all

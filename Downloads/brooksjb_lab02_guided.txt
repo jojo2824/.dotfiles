@@ -1,9 +1,0 @@
-Joseph Brooks 
-In this lab I used multple commands to write a vim file and implement configurations, I also used the cp comand to move and change the name of my new file. I only encountered issues when I tried to remove a text file that I mistakenly creating then tred moving it.
-
-syntax on 
-set ruler 
-set autoindent 
-set number 
-set ignorecase
-color elflord

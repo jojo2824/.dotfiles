@@ -1,5 +1,6 @@
 #!/bin/bash
-if [[ $UNAME="Linux" ]] 3 if the operating system is not linux
+var=$(uname)
+if [[ $var == "Linux" ]]; 
 then 
 	mkdir ~/.TRASH #make a new dir called trash in home dir 
 	if [ -f ~/.vimrc ]
@@ -9,7 +10,7 @@ then
 	fi 
 
 	touch ~/.vimrc #make the new file 
-	cat etc/.vimrc > ~/.vimrc #redirect the vimrc file output to your home .vimrc
+	cat etc/vimrc > ~/.vimrc #redirect the vimrc file output to your home .vimrc
 
 	echo "source ~/.dotfiles/etc/bashrc_custom" >> ~/.bashrc # add line to the end of the file
 

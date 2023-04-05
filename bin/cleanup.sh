@@ -1,5 +1,5 @@
 #!/bin/bash
 #cleanup.sh
-rm ~/.vimrc #remove .vimrc from the home dir 
-sed -i '/source ~\/bashrc_custom/d' ~/.bashrc #replace the line with nothing 
-rmdir ~/.TRASH #removes the directory 
+rm -f ~/.vimrc  #remove .vimrc from the home dir 
+sed -i '/source ~\/.dotfiles\/etc\/bashrc_custom/d' ~/.bashrc #replace the line with nothing 
+rm -rf ~/.TRASH #removes the directory 
